@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/WISEKJ/abc",
+  "repository": "https://github.com/WISEKJ/abc",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
